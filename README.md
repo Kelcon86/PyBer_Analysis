@@ -13,8 +13,16 @@ A new dataframe was then created to show the total weekly fares for each type of
 
 <img width="266" alt="Sum_By_Week" src="https://user-images.githubusercontent.com/60076980/152409857-89e133be-52d0-4b52-93bf-9ddd601ffc60.png">
 
+A line graph was then created to visualize the total fare by city type.
 
 <img width="979" alt="Total_Fare_By_City_Type" src="https://user-images.githubusercontent.com/60076980/152407593-e3d4d21a-c3ae-4cce-b6d2-5f7c4c5ab2a8.png">
 
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary
+Based on the results, here are three recommendations for the CEO to address disparities and improve business.
+
+1. The most obvious disparity amongst the data in my opinion was that there were 2405 urban drivers, however there were only 1625 total rides. This shows that most urban drivers likely had a hard time staying consistently busy. In order to avoid losing drivers in urban areas, I would recommend starting an advertising campaign to try to encourage more people in urban areas to use PyBer so that the number of total rides would increase.
+
+2. The second disparity I noticed was that rural areas only had a total of 125 rides during this time period, however the average fare per ride was the highest at $34.62. Since rural areas are so spread out, riders typically need to travel farther distances to get to their destinations, resulting in higher fares. Since rural areas are not typically used to having access to taxis and ride-sharing companies, I would recommend another advertising campaign with incentives such as getting the first ride free to make people aware of this option. 
+
+3. My third recommendation would be for PyBer to work with rural and suburban schools and community/event centers to provide rides to and from sporting events, concerts, plays, etc. I believe this would be beneficial for both rural and suburban areas due to the lack of public transportation in these areas. 
